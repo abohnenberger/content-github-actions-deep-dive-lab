@@ -14,11 +14,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.6.2",
-    "gatsby-plugin-image": "^1.7.1",
-    "gatsby-plugin-sharp": "^3.7.1",
-    "gatsby-source-filesystem": "^3.7.1",
-    "gatsby-transformer-sharp": "^3.7.1",
+    "gatsby": "^5.13.1",
+    "gatsby-plugin-image": "^3.9.0",
+    "gatsby-plugin-sharp": "^5.12.1",
+    "gatsby-source-filesystem": "^5.9.0",
+    "gatsby-transformer-sharp": "^5.12.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
